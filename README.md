@@ -5,6 +5,11 @@ A vernacular-first financial literacy and risk simulation product based on the R
 ## Product flow
 Learn → Simulate → Understand Risk → Apply
 
+
+
+## Vercel working link
+https://risk-simulation-copilot-client-4bk6.vercel.app/simulator
+
 ## Stack
 - Frontend: React + Vite
 - Backend: Node.js + Express
